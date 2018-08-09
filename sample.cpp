@@ -1,4 +1,4 @@
-#include<iost ream>// library
+#include<iostream>// library
 using namespace std;//Resolve multyple definition issue of same name function.
 
 int main(){
